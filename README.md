@@ -1,5 +1,15 @@
 # ET Cohort 6: Recitations Resources for 6.00.1x
 
+# MITx 6.00.1x: Intro to CS and Programming in Python - Instructor Portfolio
+
+This repository contains the recitation materials, code examples, and explanatory notes I developed and delivered as an **Instructor** for the **MIT Emerging Talent** program.
+
+### 📘 Context
+These materials were designed to support learners taking the **MITx 6.00.1x** course. While the course syllabus and core curriculum are established by **MITx**, the contents of this repository represent my supplementary teaching contributions.
+
+### ⚠️ Authorship & Attribution
+* **Curriculum:** Based on the MITx 6.00.1x framework.
+* **My Contribution:** The code implementations, detailed explanations, and recitation slides found here are **my original work**, created to facilitate student understanding of the core concepts.
 This repository contains workshop materials and practice problems to supplement [MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python).
 
 ## Running Python Files in this Repository
